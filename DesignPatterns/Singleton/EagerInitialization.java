@@ -1,5 +1,5 @@
 /**
- * ÌáÇ°³õÊ¼»¯
+ * æå‰åˆå§‹åŒ–
 */
 public class EagerInitialization{
 	private static Resource resource = new Resource();
